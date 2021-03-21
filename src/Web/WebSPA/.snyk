@@ -1,0 +1,79 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.19.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - protractor > browserstack > https-proxy-agent:
+        patched: '2021-03-21T20:52:42.633Z'
+    - protractor > saucelabs > https-proxy-agent:
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular/cli > pacote > make-fetch-happen > https-proxy-agent':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@types/protractor > protractor > browserstack > https-proxy-agent':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@types/protractor > protractor > saucelabs > https-proxy-agent':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular/cli > pacote > npm-registry-fetch > make-fetch-happen > https-proxy-agent':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular/cli > @schematics/update > pacote > make-fetch-happen > https-proxy-agent':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular/cli > @schematics/update > pacote > npm-registry-fetch > make-fetch-happen > https-proxy-agent':
+        patched: '2021-03-21T20:52:42.633Z'
+  SNYK-JS-LODASH-567746:
+    - eslint > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - karma > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - typedoc > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - sass-lint > globule > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > node-sass > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > stats-webpack-plugin > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > webpack-merge > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular/cli > inquirer > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - eslint > inquirer > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - eslint > table > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - sass-lint > eslint > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > node-sass > sass-graph > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > source-map-loader > async > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - karma > log4js > streamroller > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - sass-lint > eslint > inquirer > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - sass-lint > eslint > table > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-types > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-generator > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-traverse > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-template > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > node-sass > gaze > globule > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - karma > log4js > streamroller > async > lodash:
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-generator > babel-types > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-traverse > babel-types > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-template > babel-types > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-template > babel-traverse > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
+    - '@angular-devkit/build-angular > istanbul-instrumenter-loader > istanbul-lib-instrument > babel-template > babel-traverse > babel-types > lodash':
+        patched: '2021-03-21T20:52:42.633Z'
