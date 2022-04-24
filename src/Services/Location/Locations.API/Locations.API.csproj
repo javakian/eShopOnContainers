@@ -13,7 +13,7 @@
     <PackageReference Include="AspNetCore.HealthChecks.AzureServiceBus" Version="2.2.5" />
     <PackageReference Include="AspNetCore.HealthChecks.MongoDb" Version="2.2.3" />   
     <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="2.2.1" />
-    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="2.2.4" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="3.0.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="5.0.0-rc1" />
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.8.0-beta3" />
     <PackageReference Include="Microsoft.ApplicationInsights.DependencyCollector" Version="2.11.0-beta2" />
