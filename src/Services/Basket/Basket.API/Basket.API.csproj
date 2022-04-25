@@ -19,7 +19,7 @@
     <PackageReference Include="AspNetCore.HealthChecks.AzureServiceBus" Version="2.2.5" />
     <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="2.2.1" />
     <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="2.2.4" />
-    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="2.2.4" />
+    <PackageReference Include="AspNetCore.HealthChecks.UI.Client" Version="3.0.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="5.0.0-rc1" />
     <PackageReference Include="Google.Protobuf" Version="3.10.0-rc1" />
     <PackageReference Include="Grpc.AspNetCore.Server" Version="0.2.23-pre2" />
