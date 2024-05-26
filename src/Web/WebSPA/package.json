@@ -51,13 +51,13 @@
     "preboot": "6.0.0-beta.5",
     "rxjs": "~6.3.3",
     "rxjs-compat": "~6.3.3",
-    "webpack-dev-server": "3.1.14",
+    "webpack-dev-server": "4.8.0",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.13.6",
-    "@angular/cli": "^7.3.6",
-    "@angular/compiler-cli": "^7.2.10",
+    "@angular-devkit/build-angular": "^16.1.0",
+    "@angular/cli": "^15.0.0",
+    "@angular/compiler-cli": "^8.1.2",
     "@angular/language-service": "^7.2.10",
     "@types/core-js": "2.5.0",
     "@types/hammerjs": "2.0.35",
@@ -67,7 +67,7 @@
     "@types/selenium-webdriver": "3.0.10",
     "codelyzer": "^5.0.0-beta.1",
     "handlebars": "^4.1.2",
-    "eslint": "4.18.2",
+    "eslint": "9.0.0",
     "jasmine-core": "^3.3.0",
     "jasmine-spec-reporter": "^4.2.1",
     "karma": "^4.0.1",
@@ -80,13 +80,13 @@
     "npm-watch": "0.5.0",
     "protractor": "^5.4.2",
     "rxjs-tslint": "^0.1.7",
-    "sass-lint": "1.12.1",
+    "sass-lint": "1.13.0",
     "ts-helpers": "1.1.2",
     "ts-node": "~7.0.1",
     "tslint": "^5.14.0",
-    "typedoc": "^0.15.0",
+    "typedoc": "^0.21.0",
     "typescript": "^3.2.4",
     "url-loader": "1.1.1",
-    "webpack": "^4.29.6"
+    "webpack": "^5.1.1"
   }
 }
