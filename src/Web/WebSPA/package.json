@@ -51,12 +51,12 @@
     "preboot": "6.0.0-beta.5",
     "rxjs": "~6.3.3",
     "rxjs-compat": "~6.3.3",
-    "webpack-dev-server": "3.1.14",
+    "webpack-dev-server": "4.8.0",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.13.6",
-    "@angular/cli": "^7.3.6",
+    "@angular-devkit/build-angular": "^14.0.0",
+    "@angular/cli": "^11.2.18",
     "@angular/compiler-cli": "^7.2.10",
     "@angular/language-service": "^7.2.10",
     "@types/core-js": "2.5.0",
