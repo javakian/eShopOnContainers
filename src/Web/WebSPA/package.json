@@ -51,11 +51,11 @@
     "preboot": "6.0.0-beta.5",
     "rxjs": "~6.3.3",
     "rxjs-compat": "~6.3.3",
-    "webpack-dev-server": "3.1.14",
+    "webpack-dev-server": "4.9.0",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.13.6",
+    "@angular-devkit/build-angular": "^14.0.0",
     "@angular/cli": "^7.3.6",
     "@angular/compiler-cli": "^7.2.10",
     "@angular/language-service": "^7.2.10",
@@ -70,7 +70,7 @@
     "eslint": "4.18.2",
     "jasmine-core": "^3.3.0",
     "jasmine-spec-reporter": "^4.2.1",
-    "karma": "^4.0.1",
+    "karma": "^5.0.8",
     "karma-chrome-launcher": "^2.2.0",
     "karma-cli": "^2.0.0",
     "karma-jasmine": "^2.0.1",
