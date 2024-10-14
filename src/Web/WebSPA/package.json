@@ -55,9 +55,9 @@
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.13.6",
+    "@angular-devkit/build-angular": "^12.0.0",
     "@angular/cli": "^7.3.6",
-    "@angular/compiler-cli": "^7.2.10",
+    "@angular/compiler-cli": "^18.2.8",
     "@angular/language-service": "^7.2.10",
     "@types/core-js": "2.5.0",
     "@types/hammerjs": "2.0.35",
@@ -87,6 +87,6 @@
     "typedoc": "^0.15.0",
     "typescript": "^3.2.4",
     "url-loader": "1.1.1",
-    "webpack": "^4.29.6"
+    "webpack": "^5.0.0"
   }
 }
